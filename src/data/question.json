@@ -1,0 +1,42 @@
+{
+	"id": 1,
+	"question": {
+		"image": {
+			"src": "https://via.placeholder.com/1080x360?text=Image",
+			"alt": "Placeholder"
+		},
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia, odio in lobortis dignissim, elit odio lobortis erat, ut gravida urna dui non urna."
+	},
+	"answer": {
+		"proposal" : [
+			"First answer", "Second answer", "Third answer", "Fourth answer"
+		],
+		"correct" : 4
+	},
+	"explanation": [
+		{
+			"subtitle": "Lorem",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem enim, mollis vitae euismod vel, faucibus quis neque. Maecenas feugiat at risus eu tincidunt. Donec id nunc in eros fringilla tempus. Proin eget efficitur elit, at consequat lacus. Etiam ullamcorper metus et porta viverra. Donec vestibulum massa sed volutpat dapibus. Aenean quam risus, imperdiet eleifend luctus et, aliquam eu nibh. Aliquam gravida condimentum dolor, vel ultricies diam semper quis.",
+			"image": {
+				"src": "",
+				"alt": ""
+			}
+		},
+		{
+			"subtitle": "",
+			"text": "Sed rhoncus scelerisque massa, quis tincidunt tellus interdum in. Proin sollicitudin placerat laoreet. Donec massa neque, efficitur id lorem et, tincidunt efficitur lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse dui orci, placerat at erat sit amet, semper imperdiet lacus. Integer efficitur mauris non porttitor rutrum. Praesent a sem id turpis lobortis ultricies. Phasellus id nisl ullamcorper, semper magna nec, fringilla lectus. Integer ut sodales magna, vel facilisis arcu. Ut in sapien faucibus, pretium ipsum ut, sodales est. Quisque elementum elit at velit dictum vulputate. Integer molestie elit eu mollis fermentum. Donec maximus tempor purus vehicula fringilla. Suspendisse potenti.",
+			"image": {
+				"src": "https://via.placeholder.com/720x480?text=2",
+				"alt": "Ipsum"
+			}
+		},
+		{
+			"subtitle": "Ipsum",
+			"text": "",
+			"image": {
+				"src": "https://via.placeholder.com/1080x720?text=2",
+				"alt": "Dolor"
+			}
+		}
+	]
+}
