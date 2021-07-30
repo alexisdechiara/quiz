@@ -90,7 +90,7 @@ function Question() {
 				}
 				{ next &&
 				<Link to={`/question/${slug}`}>
-					<ArrowCircleRightIcon className="fixed right-16 top-1/3 h-24 text-custom-blue transition motion-reduce:transition-none duration-300 animate-fade-in transform motion-reduce:transform-none hover:scale-110"/>
+					<ArrowCircleRightIcon className="fixed right-16 top-1/3 h-20 text-custom-blue transition motion-reduce:transition-none duration-300 animate-fade-in transform motion-reduce:transform-none hover:scale-110"/>
 				</Link>
 				}
 			</>
